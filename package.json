@@ -1,0 +1,12 @@
+{
+	"name": "censorify",
+	"author": "Alassani ABODJI",
+	"version": "1.0.0",
+	"description": "Censors words out of the text",
+	"main": "censortext",
+	"dependencies": {},
+	"engines": {
+		"node": "*"
+	},
+	"license": "ISC"
+}
